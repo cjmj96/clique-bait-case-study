@@ -203,18 +203,18 @@ below summarizes the results.
 
 1. For 25% Off - Living The Lux Life:
 
-  1. Increase Reach: Raise ad spending to expand impression reach while maintaining efficient conversions.
+    1. Increase Reach: Raise ad spending to expand impression reach while maintaining efficient conversions.
 
-  2. Optimize Post-Click Experience: Ensure that landing pages align with the promises made in ads to retain high-intent users.
+    2. Optimize Post-Click Experience: Ensure that landing pages align with the promises made in ads to retain high-intent users.
 
 2. For BOGOF - Fishing For Compliments:
 
-  1. Clarify Offer Terms: Address any potential confusion related to "Buy One Get One Free" offer.
+    1. Clarify Offer Terms: Address any potential confusion related to "Buy One Get One Free" offer.
 
-  2. A/B Test Landing Pages: Reduce cart abandonment by streamlining the checkout process through A/B testing.
+    2. A/B Test Landing Pages: Reduce cart abandonment by streamlining the checkout process through A/B testing.
 
 3. For Half Off - Treat Your Shellf(ish):
 
-  1. Expand Audience: Increase impression reach by using the effective conversion model.
+    1. Expand Audience: Increase impression reach by using the effective conversion model.
 
-  2. Leverage High click-through rate (CTR): Experiment with urgency tactics, such as countdown timers, to enhance conversions further.
+    2. Leverage High click-through rate (CTR): Experiment with urgency tactics, such as countdown timers, to enhance conversions further.
