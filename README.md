@@ -52,49 +52,49 @@ contributing factors to the results and highlight key areas for improvement.
 
 ### Digital analysis
 
-- The platform has registered 500 users.
+The platform has registered 500 users.
 
-- The average number of cookies per user was 3.56.
+The average number of cookies per user was 3.56.
 
-- Most users visited the platform in January (876), with the highest number in February (1,488). After that, the visits decreased month to month. May had the fewest visits, at only 36.
+Most users visited the platform in January (876), with the highest number in February (1,488). After that, the visits decreased month to month. May had the fewest visits, at only 36.
 
 ![visits-per-users-by-month](Visits-per-users-by-month.PNG)
 
-- Most users visit the platform to view the products, with 20,927 views. Following that, 8451 users add products to their carts. 1,776 users proceed to purchase the products. Additionally, 875 users reacted to the ads, while 702 users clicked on the ads.
+Most users visit the platform to view the products, with 20,927 views. Following that, 8451 users add products to their carts. 1,776 users proceed to purchase the products. Additionally, 875 users reacted to the ads, while 702 users clicked on the ads.
 
-- Almost half of the visits, 49.83%, result in a purchase.
+Almost half of the visits, 49.83%, result in a purchase.
 
-- Fewer than 20% (15.51%) of the visits that view the checkout page result in a purchase.
+Fewer than 20% (15.51%) of the visits that view the checkout page result in a purchase.
 
-- The three most visited pages were all product-related with 3,174 visits. The checkout page, which recorded 2,102 visits, 
+The three most visited pages were all product-related with 3,174 visits. The checkout page, which recorded 2,102 visits, 
 followed this, and the home page, with 1,782 visits.
 
 ![top 3 pages by views](top3-pages-by-views.PNG)
 
-- The three most viewed product categories were Shellfish with 3,791 views. Fish, which recorded 2,789 views, and Luxury 
+The three most viewed product categories were Shellfish with 3,791 views. Fish, which recorded 2,789 views, and Luxury 
 which received 1,871 views followed this.
 
 ![Views by product category](views-by-product-category.PNG)
 
-- The product categories with the highest number of cart additions were: Shellfish with 6,204 additions, topped 
+The product categories with the highest number of cart additions were: Shellfish with 6,204 additions, topped 
 the list. Fish, which recorded 4,632 additions, and Luxury, which received 3,033 additions followed this.
 
 
 ![Cart adds by product category](cart-adds-by-product-category.PNG)
 
-- The three products with the highest sales volumes were Lobster, with 753 units sold. Oyster, which achieved sales of 724 units, and Crab, with 718 units sold, followed this.
+The three products with the highest sales volumes were Lobster, with 753 units sold. Oyster, which achieved sales of 724 units, and Crab, with 718 units sold, followed this.
 
 ![top 3 products by purchases](top-3-products-by-purchases.PNG)
 
 
 ### Product funnel analysis
 
-- **High product visibility**: All products exhibit a relatively high number of views, ranging from 1,470 to 1,567. This pattern indicates strong product visibility and potentially high site traffic.
+**High product visibility**: All products exhibit a relatively high number of views, ranging from 1,470 to 1,567. This pattern indicates strong product visibility and potentially high site traffic.
 
-- **Consistent conversion rates (cart adds to purchases):** The number of items added to the cart compared to those purchased is similar
+**Consistent conversion rates (cart adds to purchases):** The number of items added to the cart compared to those purchased is similar
  for most products. For every 920 to 968 cart adds, around 697 to 753 turn into purchases. This shows that the conversion rate is roughly the same across products.
 
-- **Abandonment Rate:** The number of abandoned carts is also steady, making up a large part of cart adds. Customers abandon 
+**Abandonment Rate:** The number of abandoned carts is also steady, making up a large part of cart adds. Customers abandon 
 214 to 249 items out of every 920 to 968 items added. This points to an opportunity to improve by reducing cart abandonment.
 
 | page_name      |   views |   cart_adds |   abandoned |   purchased |
@@ -109,16 +109,16 @@ the list. Fish, which recorded 4,632 additions, and Luxury, which received 3,033
 | Salmon         |    1559 |         938 |         227 |         711 |
 | Tuna           |    1514 |         931 |         234 |         697 |
 
-- Conversion rates are almost equal across all categories (around 45-47%). This means 
+Conversion rates are almost equal across all categories (around 45-47%). This means 
 that for every view, roughly half are purchased, regardless of category.
 
-- Add-to-cart rates are remarkably similar across all categories (around 60.2-61.7%). This means that for every view, 
+Add-to-cart rates are remarkably similar across all categories (around 60.2-61.7%). This means that for every view, 
 roughly the same proportion of users are adding products to their cart, regardless of the category.
 
-- Purchase rates from cart adds are also very similar across all categories (around 75-76%). This indicates 
+Purchase rates from cart adds are also very similar across all categories (around 75-76%). This indicates 
 that once products are in the cart, the likelihood of purchase is consistent across categories.
 
-- Abandonment rates are also consistently around 23-25% across categories. This reinforces the idea that cart 
+Abandonment rates are also consistently around 23-25% across categories. This reinforces the idea that cart 
 abandonment issues are likely systemic rather than category-specific.
 
 | product_category   |   views |   cart_adds |   abandoned |   purchased |
@@ -136,25 +136,25 @@ The results can be summarized as:
 | Cart Add Rate      | Luxury         | Fish              |
 | Purchase Rate      | Shellfish      | Luxury            |
 
-- The product that got the most views was Oyster with 1,567 views
+The product that got the most views was Oyster with 1,567 views
 
-- The product that got most additions to cart and purchases was Lobster with 968 adds and 753 purchases.
+The product that got most additions to cart and purchases was Lobster with 968 adds and 753 purchases.
 
-- The product people most likely abandoned was Russian Caviar, which had a 26.3% abandonment rate.
+The product people most likely abandoned was Russian Caviar, which had a 26.3% abandonment rate.
 
-- The product with the highest rate of views turning into purchases was Lobster, with a 48.7% rate.
+The product with the highest rate of views turning into purchases was Lobster, with a 48.7% rate.
 
-- The average rate of views turning into cart additions was 60.9%.
+The average rate of views turning into cart additions was 60.9%.
 
-- The average rate of cart additions turning into purchases was 75.9%.
+The average rate of cart additions turning into purchases was 75.9%.
 
 ### Campaign analysis
 
 
-- The marketing campaigns proved effective. Data shows that the adjustments in the exposed 
+The marketing campaigns proved effective. Data shows that the adjustments in the exposed 
 group—users who received impressions during any campaign—resulted in improved outcomes across several key areas.
 
-- The exposed group shows significantly higher engagement, including increased page views (2x), a greater number 
+The exposed group shows significantly higher engagement, including increased page views (2x), a greater number 
 of items added to the cart (3x), and a higher purchase rate (2x). Across all campaigns, users with impressions 
 viewed nearly twice as many pages (8.5-8.8) compared to those without (4.9-5.1). Users with impressions added 
 5+ items to their carts on average, while those without added only ~1.5 items. And users with impressions 
@@ -203,19 +203,18 @@ below summarizes the results.
 
 1. For 25% Off - Living The Lux Life:
 
-  1.1 Increase Reach: Raise ad spending to expand impression reach while maintaining efficient conversions.
+  1. Increase Reach: Raise ad spending to expand impression reach while maintaining efficient conversions.
 
-  1.2 Optimize Post-Click Experience: Ensure that landing pages align with the promises made in ads to retain high-intent users.
+  2. Optimize Post-Click Experience: Ensure that landing pages align with the promises made in ads to retain high-intent users.
 
 2. For BOGOF - Fishing For Compliments:
 
-  2.1 Clarify Offer Terms: Address any potential confusion related to "Buy One Get One Free" offer.
+  1. Clarify Offer Terms: Address any potential confusion related to "Buy One Get One Free" offer.
 
-  2.2 A/B Test Landing Pages: Reduce cart abandonment by streamlining the checkout process through A/B testing.
+  2. A/B Test Landing Pages: Reduce cart abandonment by streamlining the checkout process through A/B testing.
 
 3. For Half Off - Treat Your Shellf(ish):
 
-  3.1 Expand Audience: Increase impression reach by using the effective conversion model.
+  1. Expand Audience: Increase impression reach by using the effective conversion model.
 
-  3.2 Leverage High click-through rate (CTR): Experiment with urgency tactics, such as countdown timers, to enhance conversions further.
-
+  2. Leverage High click-through rate (CTR): Experiment with urgency tactics, such as countdown timers, to enhance conversions further.
