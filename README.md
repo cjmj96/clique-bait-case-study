@@ -42,10 +42,9 @@ used for these tasks are in the same Kaggle notebook.
 
 ### Overview of findings
 
-All campaigns are effective, with click-through rates (CTRs) and conversion rates higher than average. Half Off - Treat Your Shellf (ish) has the best buy efficiency, achieving 2.04 
-purchases per impression. It’s the top performer per return on investment (ROI). 25% Off - Living The Lux Life leads in cart engagement with 
-2.46 adds/visits, and has better conversion rates, making it great for upselling. BOGOF has the highest first engagement at 
-84.6% CTR, but is inefficient, showing users may need incentives to complete their purchases. The following sections will explore 
+All campaigns are effective, with click-through rates (CTRs) and conversion rates higher than average. Half Off - Treat Your Shellf (ish) has the 
+best purchase per impression, achieving 0.85 purchases per impression. 25% Off - Living The Lux Life leads in conversion with 49.75%, and has better 
+add-to-cart rate, making it great for upselling. BOGOF has the highest click-through rate (CTR) at 84.6%. The following sections will explore 
 contributing factors to the results and highlight key areas for improvement.
 
 
@@ -192,7 +191,7 @@ below summarizes the results.
 
 
 
-| Campaign                           | CTR      | Conversion Rate | Cart Add Rate | Purchase per Impression |
+| Campaign                           | CTR      | Conversion Rate | Add-to-cart Rate | Purchase per Impression |
 |------------------------------------|----------|-----------------|---------------|-------------------------|
 | BOGOF - Fishing For Compliments     | 0.846154 | 0.488462        | 0.692308     | 0.846154               |
 | 25% Off - Living The Lux Life      | 0.778846 | 0.497525        | 0.710396      | 0.826923                |
