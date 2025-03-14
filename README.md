@@ -169,19 +169,6 @@ converted at 82-85%, compared to 37-38% for users without impressions.
 | BOGOF - Fishing For Compliments   | With Impression    |           59 |          8.76923 |         5.35385 |        0.846154 |
 | BOGOF - Fishing For Compliments   | Without Impression |          103 |          4.95385 |         1.42051 |        0.369231 |
 
-All campaigns experienced an uplift in purchase rate except BOGOF compared with impression-only users. In the 25% Off - Living the Lux Life campaign, 
-clicks drive a 44.6% uplift over non-impressed users and a 12.7% uplift over impression-only users. In the BOGOF campaign, 
-clickers convert at 98%, but impression-only users convert at 100% (negative uplift of -2%). The Half Off - Treat Your Shellf(ish) 
-campaign has clickers who convert at 99.3%, with a 30.2% uplift over non-impressed users. Meanwhile, 3.97% uplift over impression-only 
-users, suggesting impressions alone are highly effective. 
-
-
-| Campaign                          |   clicked |   impression |   no impression |   uplift_C_vs_N |   uplift_C_vs_I |
-|:----------------------------------|----------:|-------------:|----------------:|----------------:|----------------:|
-| 25% Off - Living The Lux Life     |  0.901408 |     0.8      |        0.623188 |        0.446446 |        0.126761 |
-| BOGOF - Fishing For Compliments   |  0.98     |     1        |        0.636364 |        0.54     |       -0.02     |
-| Half Off - Treat Your Shellf(ish) |  0.993485 |     0.955556 |        0.762887 |        0.302271 |        0.039694 |
-
 
 Each campaign excels has its strength. The 25% Off - Living The Lux Life campaign has the best conversion rate, 
 meaning it gets the most people to take action and engage. High ad engagement mark the BOGOF campaign, 
